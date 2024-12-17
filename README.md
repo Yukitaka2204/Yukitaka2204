@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript and Python
 - 💞️ I’m looking to collaborate on Nothing for now
 - 📫 How to reach me something usefull for learning
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: IDW :>
 
 <!---
